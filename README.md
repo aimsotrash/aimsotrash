@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/nikhil-pawar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="44"></picture></a>&nbsp;&nbsp;<a href="mailto:nikhil.k.pawar.06@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img alt="Email" src="assets/btn-email-light.svg" height="44"></picture></a>
 </p>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img alt="Highlights: 3.5 years of DevOps at HP Inc (AWS, Terraform and on-call for device telemetry); a petabyte-scale data platform with telemetry from millions of devices on S3 and Redshift; GDPR erasure cut from up to a month to 48 hours with Airflow automation; available for a co-op from January to August 2027 in DevOps, cloud, SRE or AI/ML." src="assets/stats-light.svg" width="100%"></picture>
+
 I build and run cloud infrastructure. For three and a half years I was a DevOps engineer at **HP Inc**, running the AWS account behind HP's commercial device-telemetry platform. Now I'm doing an **MS in Computer Science at Northeastern University** in Seattle and building the projects below.
 
 **Looking for a co-op or internship from January to August 2027** in DevOps, cloud infrastructure, SRE, AI/ML or data engineering.
@@ -16,6 +18,8 @@ I build and run cloud infrastructure. For three and a half years I was a DevOps 
 <a href="https://github.com/aimsotrash/Cipherlink"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cipherlink-dark.svg"><img alt="Cipherlink: end-to-end encrypted P2P messenger on MLS (RFC 9420) over WebRTC that treats its own server as untrusted; 138 tests including an adversarial-server suite." src="assets/card-cipherlink-light.svg" width="50%"></picture></a><a href="https://github.com/shravanibnikam/rhea-period-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rhea-dark.svg"><img alt="Rhea: local-first cycle tracker with partner sharing, built with Shravani Nikam; I work on sync and data safety (outbox compare-and-swap, HLC merge, Supabase RLS tests)." src="assets/card-rhea-light.svg" width="50%"></picture></a>
 <a href="https://github.com/aimsotrash/Dory.md-Fork"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dory-md-dark.svg"><img alt="Dory.md: UWB Hacks 2026 notes app that ranks search by a forgetting curve; I led the backend (FastAPI, embeddings, ChromaDB, JWT auth, deployment)." src="assets/card-dory-md-light.svg" width="50%"></picture></a><a href="https://github.com/Vatsalya2003/ghostline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ghostline-dark.svg"><img alt="ghostline: a tactical game about when to trust an AI teammate whose sensors can fail, built with Vatsalya Dabhi; I made the 3D mission map, lighting, audio and tutorial." src="assets/card-ghostline-light.svg" width="50%"></picture></a>
 </p>
+
+<p align="center"><sub>Live demos: <a href="https://dory-md-fork.vercel.app">Dory.md</a> · <a href="https://shravanibnikam.github.io/rhea-period-tracker/">Rhea</a> · <a href="https://ghostline-eta.vercel.app">ghostline</a></sub></p>
 
 ## Experience
 
