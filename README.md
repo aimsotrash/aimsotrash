@@ -16,7 +16,7 @@
 
 <a href="https://github.com/linkml/linkml/pull/4093"><picture><source media="(max-width: 481px)" srcset="assets/also-linkml-narrow.svg"><source media="(min-width: 482px) and (max-width: 602px), (min-width: 768px) and (max-width: 890px)" srcset="assets/also-linkml-small.svg"><source media="(min-width: 603px) and (max-width: 767px), (min-width: 891px) and (max-width: 1133px)" srcset="assets/also-linkml-medium.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/also-linkml-dark.svg"><img alt="LinkML, open source: a fix, in review, that stops gen-sqltables with the MSSQL dialect crashing on table and column comments." src="assets/also-linkml-light.svg" width="100%"></picture></a>
 
-Live demos: <a href="https://aimsotrash-engram.vercel.app">Ebbtide</a>&nbsp;· <a href="https://shravanibnikam.github.io/rhea-period-tracker/">Rhea</a>&nbsp;· <a href="https://ghostline-eta.vercel.app">ghostline</a>
+Live demos: <a href="https://aimsotrash-ebbtide.vercel.app">Ebbtide</a>&nbsp;· <a href="https://shravanibnikam.github.io/rhea-period-tracker/">Rhea</a>&nbsp;· <a href="https://ghostline-eta.vercel.app">ghostline</a>
 
 ### Experience
 
